@@ -28,8 +28,8 @@ Simple language summary: This is a pen + tablet set that lets you write by hand 
 
 ##### Or...
 
-*Livescribe Echo 2 Smartpen
-  *What it is: A smartpen that writes like a regular pen but also records audio and links that recording to your handwritten notes.
+* Livescribe Echo 2 Smartpen
+  * What it is: A smartpen that writes like a regular pen but also records audio and links that recording to your handwritten notes.
 How it works: You use special dot-pattern paper while writing; the pen tracks your written strokes and has a built-in mic that records audio as you write. Later, you can tap a word/note and the pen plays back the exact moment of audio from when you wrote it. You can transfer the notes and audio to your computer or phone via Bluetooth/USB. 
 Why it’s helpful for screenwriting: Because when you’re brainstorming or in a writers’ room, you might say things out loud and make notes simultaneously. This pen captures both the spoken thought and the written note — so you won’t lose context. Later, you can revisit the moment when you first wrote a line or noted a scene idea and hear the discussion or mood that went with it. 
 Simple language summary: This is a pen that listens while you write. Later you can go back, tap your writing, and hear what you said when you wrote it — super useful for remembering your creative thoughts exactly as you had them.
