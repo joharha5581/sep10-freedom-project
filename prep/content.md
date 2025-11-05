@@ -15,7 +15,7 @@ Simple summary: A complete script-writing plus production-ready software tool th
 ##### Or...
 
 * Script Studio for Windows
-  *Script Studio for Windows is a software tool aimed at screenwriters who want to develop and structure their scripts deeply. It works by providing tools for outlining, character development, scene management, and then the actual writing interface—so you can work on the story, the structure, and the draft all in one place. For screenwriters, this is helpful because structural planning (characters, scenes, arcs) often gets separated from the actual writing; this tool brings those together so you can see the big picture and the draft side by side.
+  * Script Studio for Windows is a software tool aimed at screenwriters who want to develop and structure their scripts deeply. It works by providing tools for outlining, character development, scene management, and then the actual writing interface—so you can work on the story, the structure, and the draft all in one place. For screenwriters, this is helpful because structural planning (characters, scenes, arcs) often gets separated from the actual writing; this tool brings those together so you can see the big picture and the draft side by side.
 Simple summary: A writing app that helps you build your story, organize your scenes, and write your script in one workspace, making it easier to keep everything connected.
 
 
