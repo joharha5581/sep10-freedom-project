@@ -36,6 +36,6 @@ Simple language summary: This is a pen that listens while you write. Later you c
  
 
 ## Part B: Possible Future Technology
-* AI-Powered Virtual Storyroom
-  * This would be a VR/AR tool combined with AI that lets screenwriters walk through their scenes in 3D. Writers could interact with characters, see the setting, and hear dialogue while the AI suggests ideas for plot, dialogue, or character actions. It would help writers visualize their story, fix problems, and brainstorm more creatively in an interactive way.
+* FilmMind Generator
+    * This is a new invention in other words an application for screenwriting that combines all filmmaking tools in one place. You upload your script, and the app automatically suggests filming locations, actors for each role, and music that matches the genre or the culture. It even orgranizes your scenes and creates a shooting plan. So instead of using many apps, everything is done in one. 
 
