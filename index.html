@@ -1,29 +1,35 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+</head>
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <style>
-            /* CSS */
-            
-        </style>
-        
-        <title>Title</title>
-    </head>
-    <body>
-        <!-- HTML -->
-        
-        
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- <script src="script.js"></script> -->
-        <script>
-            // JS
-            
-            
-        </script>
-    </body>
+<body>
+<a-scene>
+
+  <!-- ground -->
+  <a-plane rotation="-90 0 0" width="20" height="20" color="#7BC8A4"></a-plane>
+
+  <!-- sky -->
+  <a-sky color="#87CEEB"></a-sky>
+
+  <!-- house -->
+  <a-box position="0 1 -5" color="#8B4513" depth="4" height="2" width="4"></a-box>
+
+  <!-- roof -->
+  <a-cone position="0 3 -5" color="#B22222" radius-bottom="3" height="2"></a-cone>
+
+  <!-- tree trunk -->
+  <a-cylinder position="4 1 -6" color="#8B4513" height="2" radius="0.3"></a-cylinder>
+
+  <!-- tree leaves -->
+  <a-sphere position="4 2.5 -6" color="green" radius="1.2"></a-sphere>
+
+  <!-- rock -->
+  <a-sphere position="-3 0.5 -4" color="gray" radius="0.6"></a-sphere>
+
+  <!-- sun -->
+  <a-sphere position="5 8 -10" color="yellow" radius="1.5"></a-sphere>
+
+</a-scene>
+</body>
 </html>
