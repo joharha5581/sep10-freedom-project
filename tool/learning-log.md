@@ -23,7 +23,7 @@
 * How do i organize bigger scenes better?
 
 ### What I'll try next
-Next, I want to try adding more objects and making my scene more detailed, add more content. 
+* Next, I want to try adding more objects and making my scene more detailed, add more content. 
   
 
 ### X/X/XX:
