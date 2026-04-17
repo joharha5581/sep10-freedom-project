@@ -35,9 +35,11 @@ I also learned that A-Frame is helpful because it uses HTML-like syntax, which m
 
 
 ##### Sources
-A-Frame documentation
+A-Frame documentation:
+
 https://aframe.io/docs/1.5.0/introduction/
 
+https://docs.google.com/presentation/d/1C8xDyvXzVgtX3G8UdXVNEn2PWVnsLF0sPu4QMRCL7xY/edit?slide=id.g849c2abd37_0_0#slide=id.g849c2abd37_0_0
 
 
 
