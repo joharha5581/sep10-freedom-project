@@ -17,7 +17,7 @@ While tinkering with A-Frame, I learned that small changes in the code can make 
 I also learned that A-Frame is helpful because it uses HTML-like syntax, which makes it easier to understand compared to more complex 3D programming tools.
 
 ##### Evidence of Tinkering
-To show evidence of my work, I included screenshots of my VR scene and code snippets from the changes I made while experimenting with different objects and properties.
+
 
 
 
