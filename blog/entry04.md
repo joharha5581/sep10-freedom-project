@@ -16,6 +16,13 @@ For example, I tried creating a box object and changing its color and position t
 While tinkering with A-Frame, I learned that small changes in the code can make big differences in the virtual scene. For example, changing the position numbers moves objects in 3D space, and changing the color attribute quickly updates how the object looks.
 I also learned that A-Frame is helpful because it uses HTML-like syntax, which makes it easier to understand compared to more complex 3D programming tools.
 
+##### Skills
+
+One skill I improved is using the position and rotation attributes more accurately. Before, I was just placing objects randomly and hoping they looked right, but now I understand how the x, y, and z coordinates actually affect where objects appear in the scene. For example, I experimented with placing multiple objects at different distances and heights to create a more realistic layout. 
+
+Another skill I developed is adding basic interactivity using events. I learned how to make objects respond when the user interacts with them, such as clicking. This made my project more engaging instead of just being a static scene.
+
+
 ##### Evidence of Tinkering
 
 ```language
