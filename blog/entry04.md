@@ -18,7 +18,17 @@ I also learned that A-Frame is helpful because it uses HTML-like syntax, which m
 
 ##### Evidence of Tinkering
 
-
+```language
+<a-box position="0 1 -3" rotation="0 45 0" color="blue"></a-box>
+<a-sphere position="2 1.5 -4" radius="0.5" color="red"></a-sphere>
+<a-plane position\
+0 0 -4" rotation="-90 0 0" width="6" height="6" color="green"></a-plane>
+```
+```language
+<a-box position="0 1 -3" color="blue"
+        event-set__enter="_event: click; color: red">
+</a-box>
+```
 
 
 
