@@ -26,7 +26,7 @@
 * Next, I want to try adding more objects and making my scene more detailed, add more content. 
   
 
-### 20/19/26:
+### 04/19/26:
 * Text
 
 
