@@ -42,6 +42,17 @@ Overall, I built on my previous work by not just adding more objects, but by thi
 * I still struggled a bit with positioning, especially depth (z-axis), because sometimes objects would look closer or farther than I expected. Another challenge was trying to make the scene look organized instead of messy when adding more objects.
 * One thing I realized is that building a good scene is not just about adding more objects, but about placing them with purpose. I also understood that small changes in position values can make a big difference in how the scene looks.
 
+```language
+
+<a-scene>
+  <a-plane position="0 0 -4" rotation="-90 0 0" width="8" height="8" color="green"></a-plane>
+
+  <a-box position="-1 1 -3" color="blue"></a-box>
+  <a-sphere position="2 1 -5" radius="1" color="red"></a-sphere>
+  <a-cylinder position="0 1 -2" radius="0.5" height="2" color="yellow"></a-cylinder>
+</a-scene>
+
+```
 ### Questions I still have
 * How do I add textures instead of just colors?
 * How can I make objects move or animate?
