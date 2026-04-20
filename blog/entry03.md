@@ -16,7 +16,7 @@ Once my brainstorming was done, I organized all all my ideas into a clear sectio
 
 ##### Sources 
 
-Even though most of my ideas came from brainstorming and my own experience with screenwriting, I still looked at other tools to undertsna dwhat features are common. I researched script-organizing apps, film-planning websites, and screenwiritng programs. These gave me ideas on what writers struggle with and what my app can improve. 
+Even though most of my ideas came from brainstorming and my own experience with screenwriting, I still looked at other tools to understand what features are common. I researched script-organizing apps, film-planning websites, and screenwiritng programs. These gave me ideas on what writers struggle with and what my app can improve. 
 
 
 ##### EDP (Engineering Design Process)
