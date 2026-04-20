@@ -4,7 +4,7 @@
 
 ---
 
-### 03/23/26: LL2
+### 03/23/26: LL3
 
 ### Links I used today
 * Aframe website
@@ -26,14 +26,29 @@
 * Next, I want to try adding more objects and making my scene more detailed, add more content. 
   
 
-### 04/19/26:
-* Text
+### 04/19/26: LL4
+
+### Links I used today
+* Aframe website
+* YouTube videos on adding detail and structuring scenes
+
+### Progress made
+* Since my last learning log, I focused on what I said I would try next, which was adding more objects and making my scene more detailed. This time, I didn’t just add random shapes, but I tried to place them more carefully to actually form a scene. For example, I used planes as a ground and placed objects on top of them instead of having everything floating.
+I also improved how I use position values. I was able to space objects out better and avoid overlap.
+* Another thing I worked on was making the scene look more organized and realistic by adjusting sizes and colors with more intention instead of randomly. This made my project look more like an actual environment instead of just practice shapes.
+Overall, I built on my previous work by not just adding more objects, but by thinking about how they fit together in the scene, which is something I didn’t do before.
+
+### Challenges
+* I still struggled a bit with positioning, especially depth (z-axis), because sometimes objects would look closer or farther than I expected. Another challenge was trying to make the scene look organized instead of messy when adding more objects.
+* One thing I realized is that building a good scene is not just about adding more objects, but about placing them with purpose. I also understood that small changes in position values can make a big difference in how the scene looks.
+
+### Questions I still have
+* How do I add textures instead of just colors?
+* How can I make objects move or animate?
+* How do I make objects interactive (like clickable)?
+
+### What I’ll try next
+* Next, I want to go beyond just adding objects and start making my scene more interactive by adding animations or movement.
+* I also want to try using textures and possibly adding a background to make the environment feel more complete.
 
 
-<!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
