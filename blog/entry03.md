@@ -37,7 +37,7 @@ During this part of the project, I practiced organizing large ideas, explaining 
 
 ##### Professionalism
 
-I made sure my writing was, clear, formal, and appropriate for grammer and made sure the structure was easy to follow,. I stayed focused, worked responsibly, and kept myt work organized so that it looks professional when I upload it. 
+I made sure my writing was, clear, formal, and appropriate for grammer and made sure the structure was easy to follow,. I stayed focused, worked responsibly, and kept my work organized so that it looks professional when I upload it. 
 
 
 
